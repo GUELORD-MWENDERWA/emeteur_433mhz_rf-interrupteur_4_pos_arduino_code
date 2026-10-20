@@ -49,4 +49,4 @@ All tunables are constants at the top of `EMETTEUR_cmd_relais.ino`:
 
 ## License
 
-No license has been specified yet. Contact the author before reusing this code.
+MIT. See [LICENSE](LICENSE).
